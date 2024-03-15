@@ -13,6 +13,7 @@ public class MainActivity extends AppCompatActivity {
 
 
 
+
         System.out.println("A1");
         System.out.println("A2");
         System.out.println("A3");
@@ -22,6 +23,7 @@ public class MainActivity extends AppCompatActivity {
         System.out.println("B1");
 
         System.out.println("B2");
+
 
     }
 }
