@@ -10,9 +10,11 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
         System.out.println("A1");
         System.out.println("A2");
         System.out.println("A3");
+
 
     }
 }
